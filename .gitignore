@@ -1,0 +1,14 @@
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore environment variable files 
+.env
+
+# Add other project-specific exclusions if needed
